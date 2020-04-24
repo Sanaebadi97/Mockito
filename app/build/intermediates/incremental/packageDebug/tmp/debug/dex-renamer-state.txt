@@ -1,0 +1,4 @@
+#Fri Apr 24 05:58:45 EDT 2020
+base.0=/home/sanaebadi/Pasport/and_dev/workplace/Github/Mockito/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
