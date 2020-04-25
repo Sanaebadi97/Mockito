@@ -1,5 +1,5 @@
 # Mockito
-Example project used in the Caster.io course on Mockito and clean unit testing
+Example project used in the Caster.io
 
 
 
