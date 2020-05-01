@@ -3,5 +3,4 @@
 What is  mockito ?
 Mockito is a  mocking
 
- framework  that tastes really
-
+ framework  that tastes really  good
