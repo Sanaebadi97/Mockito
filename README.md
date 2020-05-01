@@ -1,8 +1,6 @@
 # Mockito
 
 What is  mockito ?
-Mockito 
-
-
+Mockito is 
 
 
