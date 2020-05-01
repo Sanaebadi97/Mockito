@@ -1,6 +1,5 @@
 # Mockito
 
-What 
-
+What is
 
 
