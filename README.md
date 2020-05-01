@@ -1,5 +1,3 @@
 # Mockito
 
-What is
-
-
+What is  mockito
