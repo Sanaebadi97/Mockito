@@ -3,6 +3,6 @@
 What is  mockito ?
 Mockito is a  mocking
 
- framework  that tastes really  good . It lets  you write beautiful 
+ framework  that tastes really  good . It lets  you write beautiful tests
 
 
